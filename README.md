@@ -12,7 +12,7 @@
     Infinity Image Page Scroll
     <br/>
     <br/>
-    <a href="https://github.com/Monk-Codes/marvel"><strong>Fitness Studio Landing Page »</strong></a>
+    <a href="https://github.com/Monk-Codes/marvel"><strong>Landing Page »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/Monk-Codes/marvel">View Demo</a>
