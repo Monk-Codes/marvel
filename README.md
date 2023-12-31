@@ -1,6 +1,6 @@
 # marvel
 ## Infinity Page Scrool 
-- [Live Demo](https://Alpha-dx.netlify.app/)
+- [Live Demo](https://marvel-dx.netlify.app/)
 <br/>
 <p align="center">
 <img src="logo.png" alt="image" width="400" height="300">
